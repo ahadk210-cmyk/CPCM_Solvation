@@ -1,0 +1,6 @@
+Molecule,HOMO_gas_eV,LUMO_gas_eV,HOMO_cpcm_eV,LUMO_cpcm_eV,Dipole_gas_D,Dipole_cpcm_D,Gsolv_kcal_mol
+Quercetin,-5.5803,-1.6115,-5.5096,-1.6446,5.50,8.10,-24.56
+Catechin,-5.3061,0.3440,-5.5778,0.0926,2.08,2.39,-23.47
+Ascorbic Acid,-6.1194,-0.7450,-5.9862,-0.6368,3.69,5.97,-20.23
+Caffeic Acid,-5.7234,-1.5307,-5.6202,-1.6109,4.98,6.86,-14.22
+Rutin,-5.6247,-1.5497,-5.9578,-1.1915,7.66,13.71,-35.24
